@@ -21,8 +21,8 @@ A Python-based ETL (Extract, Transform, Load) pipeline that fetches Premier Leag
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pl-standings-etl.git
-cd pl-standings-etl
+git clone https://github.com/Tartmo0097/Premier-League-standings-ETL-pipeline.git
+cd Premier-League-standings-ETL-pipeline
 ```
 
 2. Create a virtual environment:
